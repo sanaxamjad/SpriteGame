@@ -1,4 +1,4 @@
-# Table Tennis Game
+# Table Tennis Game 
 This project is a simple tennis game implemented using Pygame, a popular library for creating games in Python. The game features a player-controlled paddle, a computer-controlled paddle, and a ball that bounces off the paddles and walls. The objective is to score points by making the ball exit the screen on the opponent's side.
 
 ## Features
